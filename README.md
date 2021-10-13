@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/test6766/cacabc0a-3603-401a-a19a-9171011921fc/2472bdb6-d2e4-441d-aa45-cfbeaa360a02/_apis/work/boardbadge/68f4b7c3-af94-462b-9960-8d710fda0bba)](https://dev.azure.com/test6766/cacabc0a-3603-401a-a19a-9171011921fc/_boards/board/t/2472bdb6-d2e4-441d-aa45-cfbeaa360a02/Microsoft.RequirementCategory)
 # AngularApp1
 updated it for fun
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
